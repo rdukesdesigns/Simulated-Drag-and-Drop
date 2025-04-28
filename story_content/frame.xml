@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Specific Question Sort" />
+              <option name="title_text" value="Simulated Drag and Drop Interaction" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1592,10 +1592,10 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.64CLeGW1HkR" displaytext="Simulated_DragDrop_Template" expand="true" type="slide">
+        <slidelink slideid="_player.5vGxLflZ9OE" displaytext="Simulated_DragDrop_Template_withSoundToggle" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.64CLeGW1HkR.6kja3gdinw7" displaytext="Play" expand="false" type="slide" />
-            <slidelink slideid="_player.64CLeGW1HkR.6Oh2Bd5RSY6" displaytext="Question Sort" expand="false" type="slide" />
+            <slidelink slideid="_player.5vGxLflZ9OE.5eJ5yv41yjZ" displaytext="Play" expand="false" type="slide" />
+            <slidelink slideid="_player.5vGxLflZ9OE.5kIHQSUR76j" displaytext="Question Sort" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
